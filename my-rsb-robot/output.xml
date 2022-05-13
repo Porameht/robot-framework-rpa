@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 5.0 (Python 3.7.5 on darwin)" generated="20220513 16:05:48.555" rpa="false" schemaversion="3">
+<suite id="s1" name="Robot Interactive Console" source="/Users/fr4nk/.vscode/extensions/robocorp.robotframework-lsp-0.47.2/src/robotframework_ls/vendored/robotframework_interactive/robot_interactive_console.robot">
+<test id="s1-t1" name="Default Task/Test" line="5">
+<kw name="Interpreter Main Loop" library="MainLoop">
+<status status="PASS" starttime="20220513 16:05:48.577" endtime="20220513 16:08:30.566"/>
+</kw>
+<status status="PASS" starttime="20220513 16:05:48.576" endtime="20220513 16:08:30.567"/>
+</test>
+<status status="PASS" starttime="20220513 16:05:48.556" endtime="20220513 16:08:30.568"/>
+</suite>
+<statistics>
+<total>
+<stat pass="1" fail="0" skip="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat pass="1" fail="0" skip="0" id="s1" name="Robot Interactive Console">Robot Interactive Console</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>
+16:05:59.227"/>
+</kw>
+<kw name="Open Available Browser(url: str | None = None">
+<msg timestamp="20220513 16:07:06.340" level="FAIL">No keyword with name 'Open Available Browser(url: str | None = None' found.</msg>
+<status status="FAIL" starttime="20220513 16:07:06.339" endtime="20220513 16:07:06.340"/>
+</kw>
+<kw name="Open Available Browser">
+<arg>https://robotsparebinindustries.com/</arg>
+<msg timestamp="20220513 16:07:42.282" level="FAIL">No keyword with name 'Open Available Browser' found.</msg>
+<status status="FAIL" starttime="20220513 16:07:42.282" endtime="20220513 16:07:42.282"/>
+</kw>
+<status status="PASS" starttime="20220513 16:05:48.937" endtime="20220513 16:08:28.995"/>
+</kw>
+<status status="PASS" starttime="20220513 16:05:48.937" endtime="20220513 16:08:28.996"/>
+</test>
+<status status="PASS" starttime="20220513 16:05:48.916" endtime="20220513 16:08:28.997"/>
+</suite>
+<statistics>
+<total>
+<stat pass="1" fail="0" skip="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat pass="1" fail="0" skip="0" id="s1" name="Robot Interactive Console">Robot Interactive Console</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>
